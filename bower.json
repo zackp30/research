@@ -1,0 +1,24 @@
+{
+  "name": "research",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zackp30/research",
+  "authors": [
+    "Zack Piper <zack.piper123@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "katex": "~0.5.1",
+    "jquery-ui": "~1.11.4",
+    "jquery": "~2.1.4",
+    "sizzle": "~2.2.1",
+    "citeproc-js": "~1.0.9"
+  }
+}
